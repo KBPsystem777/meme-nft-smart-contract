@@ -52,4 +52,4 @@ async function mintNFT(tokenURI) {
     })
 }
 
-mintNFT("ipfs://QmWyB4dGanAS3ckMwF5GTJGUs9ipNUjRNaDSsavJ4BnEmE")
+mintNFT("ipfs://QmXBBKrZkemxm4QhbzbTRjv78WUuiJ1UmzJqW9XLMUQ3XD")
